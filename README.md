@@ -1,6 +1,4 @@
 # gsbc-intro-web
-Here is what I'm working on!
-
 🛠 I'm currently working on.."My church's welcome video"
 
 🧠I'm currently learning..."Coding, Photoshop, Premiere Pro, Photography, and Spanish"
