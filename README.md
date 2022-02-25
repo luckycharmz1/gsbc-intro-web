@@ -11,6 +11,6 @@ Here is what I'm working on!
 
 📱How to reach me?? cwashington2011@outlook.com
 
-🙋‍♀️Pronouns...There are only two and by my picture, I'll say I go by she/her!
+🙋‍♀️Pronouns...There are only two genders and by my picture, I'll say I go by she/her!
 
 ✌Fun Fact...Mac 'n cheese is my favorite food. 
