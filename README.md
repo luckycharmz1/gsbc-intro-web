@@ -3,7 +3,7 @@
 
 🧠I'm currently learning..."Coding, Photoshop, Premiere Pro, Photography, and Spanish"
 
-👀I'm looking for help on, "What is the next step after adding a README.md file, how to work with my hello.html, and using CSS."
+👀I'm looking for help on, "Shaping the div and using CSS."
 
 🙉Ask me about..."Anything..well but maybe not anything. Keep it PG!"
 
