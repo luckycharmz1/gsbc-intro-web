@@ -120,7 +120,25 @@ a:active {
             <input type="submit"> 
    
          </form>
+         
+         <script>
+function light(sw) {
+  var pic;
+  if (sw == 0) {
+    pic = "bulb-on-off-gif-2.gif"
+  } else {
+    pic = "bulb-on-off-gif-2.gif"
+  }
+  document.getElementById('myImage').src = pic;
+}
+</script>
 
+<img id="myImage" src="bulb-on-off-gif-2.gif" width="100" height="180">
+
+<p>
+<button type="button" onclick="light(1)">Light On</button>
+<button type="button" onclick="light(0)">Light Off</button>
+</p>
 
 <body>
     <p style="color:antiquewhite;">Now time for the hard question. Does your light shine for Jesus?</p>
