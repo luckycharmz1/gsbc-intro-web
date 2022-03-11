@@ -120,14 +120,14 @@ a:active {
             <input type="submit"> 
    
          </form>
-         
-         <script>
+<body>         
+<script>
 function light(sw) {
   var pic;
   if (sw == 0) {
-    pic = "pic_bulboff.gif."
-  } else {
     pic = "pic_bulboff.gif"
+  } else {
+    pic = "pic_bulbon.gif"
   }
   document.getElementById('myImage').src = pic;
 }
@@ -139,7 +139,7 @@ function light(sw) {
 <button type="button" onclick="light(1)">Light On</button>
 <button type="button" onclick="light(0)">Light Off</button>
 </p>
-
+</body>
 <body>
     <p style="color:antiquewhite;">Now time for the hard question. Does your light shine for Jesus?</p>
 </body>
